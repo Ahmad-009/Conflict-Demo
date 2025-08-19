@@ -1,5 +1,5 @@
 def add(a, b):
-    print("Adding numbers")
+    print("Adding symbols")
     return a + b
 
 def subtract(a, b):
