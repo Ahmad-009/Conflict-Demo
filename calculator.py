@@ -3,6 +3,7 @@ def add(a, b):
     return a + b
 
 def subtract(a, b):
+    print('substracting the symbols')
     return a - b
 
 def multiply(a, b):
